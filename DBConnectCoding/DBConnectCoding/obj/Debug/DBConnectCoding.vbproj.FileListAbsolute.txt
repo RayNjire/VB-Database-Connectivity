@@ -1,0 +1,13 @@
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\Ch13. Database Connectivity\DBConnectCoding\DBConnectCoding\bin\Debug\AddressBook.mdb
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\Ch13. Database Connectivity\DBConnectCoding\DBConnectCoding\bin\Debug\DBConnectCoding.exe.config
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\Ch13. Database Connectivity\DBConnectCoding\DBConnectCoding\bin\Debug\DBConnectCoding.exe
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\Ch13. Database Connectivity\DBConnectCoding\DBConnectCoding\bin\Debug\DBConnectCoding.pdb
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\Ch13. Database Connectivity\DBConnectCoding\DBConnectCoding\bin\Debug\DBConnectCoding.xml
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\Ch13. Database Connectivity\DBConnectCoding\DBConnectCoding\obj\Debug\DBConnectCoding.vbprojAssemblyReference.cache
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\Ch13. Database Connectivity\DBConnectCoding\DBConnectCoding\obj\Debug\DBConnectCoding.Form1.resources
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\Ch13. Database Connectivity\DBConnectCoding\DBConnectCoding\obj\Debug\DBConnectCoding.Resources.resources
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\Ch13. Database Connectivity\DBConnectCoding\DBConnectCoding\obj\Debug\DBConnectCoding.vbproj.GenerateResource.cache
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\Ch13. Database Connectivity\DBConnectCoding\DBConnectCoding\obj\Debug\DBConnectCoding.vbproj.CoreCompileInputs.cache
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\Ch13. Database Connectivity\DBConnectCoding\DBConnectCoding\obj\Debug\DBConnectCoding.exe
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\Ch13. Database Connectivity\DBConnectCoding\DBConnectCoding\obj\Debug\DBConnectCoding.xml
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\Ch13. Database Connectivity\DBConnectCoding\DBConnectCoding\obj\Debug\DBConnectCoding.pdb

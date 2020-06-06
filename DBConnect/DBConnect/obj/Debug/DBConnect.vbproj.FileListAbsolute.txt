@@ -1,0 +1,13 @@
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\Ch13. Database Connectivity\DBConnect\DBConnect\bin\Debug\AddressBook.mdb
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\Ch13. Database Connectivity\DBConnect\DBConnect\bin\Debug\DBConnect.exe.config
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\Ch13. Database Connectivity\DBConnect\DBConnect\bin\Debug\DBConnect.exe
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\Ch13. Database Connectivity\DBConnect\DBConnect\bin\Debug\DBConnect.pdb
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\Ch13. Database Connectivity\DBConnect\DBConnect\bin\Debug\DBConnect.xml
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\Ch13. Database Connectivity\DBConnect\DBConnect\obj\Debug\DBConnect.vbprojAssemblyReference.cache
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\Ch13. Database Connectivity\DBConnect\DBConnect\obj\Debug\DBConnect.Form1.resources
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\Ch13. Database Connectivity\DBConnect\DBConnect\obj\Debug\DBConnect.Resources.resources
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\Ch13. Database Connectivity\DBConnect\DBConnect\obj\Debug\DBConnect.vbproj.GenerateResource.cache
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\Ch13. Database Connectivity\DBConnect\DBConnect\obj\Debug\DBConnect.vbproj.CoreCompileInputs.cache
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\Ch13. Database Connectivity\DBConnect\DBConnect\obj\Debug\DBConnect.exe
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\Ch13. Database Connectivity\DBConnect\DBConnect\obj\Debug\DBConnect.xml
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\Ch13. Database Connectivity\DBConnect\DBConnect\obj\Debug\DBConnect.pdb
